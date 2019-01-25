@@ -56,4 +56,4 @@ end
 require 'date'
 readandcreate()
 courses_before(@courses,"2017-05-01")
-courses_after(@courses, "2018-11-01")
+courses_after(@courses, "2017-11-01")
